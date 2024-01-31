@@ -1,0 +1,1 @@
+mysql> SELECT * from etudiant ORDER BY age desc;

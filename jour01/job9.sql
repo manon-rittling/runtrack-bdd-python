@@ -1,0 +1,1 @@
+SELECT * from etudiant ORDER BY age ASC;

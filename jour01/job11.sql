@@ -1,0 +1,1 @@
+select * from etudiant WHERE nom = 'Dupuis' AND prenom = 'gertrude'
